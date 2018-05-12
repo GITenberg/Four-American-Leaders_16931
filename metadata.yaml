@@ -1,0 +1,35 @@
+_repo: Four-American-Leaders_16931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+description: ''
+gutenberg_issued: '2005-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16931'
+  lccn: 06042960
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- United States -- Biography'
+- !lcsh 'Washington, George, 1732-1799'
+- !lcsh 'Statesmen -- United States -- Biography'
+- !lcsh 'Channing, William Ellery, 1780-1842'
+- !lcsh 'Franklin, Benjamin, 1706-1790'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcc 'E151'
+- !lcsh 'Emerson, Ralph Waldo, 1803-1882'
+tableOfContents: Franklin -- Washington -- Channing -- Emerson.
+title: Four American Leaders
+url: http://www.gutenberg.org/ebooks/16931
